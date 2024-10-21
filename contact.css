@@ -1,0 +1,62 @@
+body {
+		background-color: bisque;
+		background-image: url("SPACE.jpg");
+		background-position: fixed;
+		background-repeat: no-repeat;
+		background-size: 100%;
+	}
+
+	h1 {
+		text-align: center;
+		font-size: xx-large;
+		color: oldlace;
+	}
+
+	h4 {
+		text-align: start;
+		font-size: 150%;
+		color:black;
+		padding: 2px;
+	}	
+	
+	p {
+		color: bisque;
+		font-style: new times roman;
+		font-size: 130%
+	}	
+
+	footer {
+		color: black;
+		position: fixed;
+		left: 0;
+		bottom: 0;
+		width: 100%;
+		text-align: center;
+	}
+
+    h5 {
+        color: oldlace;
+        font-size: 150%;
+    }
+
+    h6 {
+        text-align: center;
+        color: oldlace;
+        font-size: 130%;
+        font-style: italic;
+        font-display: BOLD;
+    }
+
+	.navigation a{
+	position: relative;
+	font-size: 1.1em;
+	color: #fff;
+	text-decoration: none;
+	font-weight: 500;
+	margin-left: 40px;
+	text-align: right;
+}
+
+	h3{
+		color: oldlace;
+	}

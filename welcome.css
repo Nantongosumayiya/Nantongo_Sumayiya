@@ -1,0 +1,26 @@
+
+
+body {
+      font-size: xx-large;
+      background-image: url('SPACE.jpg');
+      background-repeat: no-repeat;
+      background-position: fixed;
+      background-size: 100%;
+      text-align: center;
+      margin: 50px;
+      padding: 100px;
+}
+h1 {
+      color: burlywood;
+      text-align: center;
+      font-style: italic;
+}
+p {
+      color: bisque;
+}
+a {
+      text-decoration: none;
+      border-style: : 4px;
+      color: burlywood;
+}
+
